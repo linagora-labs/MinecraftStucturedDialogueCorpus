@@ -49,3 +49,16 @@ Note:  Some minor corrections have been made to the data since LREC publication.
 
 
 # Parser 
+
+We use the BertLine parser as originally described in [Bennis et al, 2023](https://aclanthology.org/2023.eacl-main.247.pdf). 
+
+#### To reproduce our results, run the notebooks in this order:
+ 1.  bert_finetune.ipynb
+ 2.  bert_linear.ipynb
+ 3.  bert_multitaks.ipynb
+ 4.  bert_multitask_test.ipynb
+
+
+#### To produce the second pass on Narration, use:
+
+ 1. narrative_arcs.ipynb 
