@@ -57,8 +57,4 @@ We use the BertLine parser as originally described in [Bennis et al, 2023](https
  2.  bert_linear.ipynb
  3.  bert_multitaks.ipynb
  4.  bert_multitask_test.ipynb
-
-
-#### To produce the second pass on Narration, use:
-
- 1. narrative_arcs.ipynb 
+ 
