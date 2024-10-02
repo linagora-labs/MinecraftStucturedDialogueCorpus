@@ -49,7 +49,7 @@ Note:  Some minor corrections have been made to the data since LREC publication.
 
 #### Builder Action Formats 
 For the BertLine parser, each Builder action move is compressed to a single code representing place/pick, color and xyz coordinates. 
-The corpus data has with the natural language representation for each move is provided in the `data/reformat` directory. These files can also be generated from the BertLine data using the action_format.py script also provided in the data directory. This script can be modified if a different linguistic representation of builder moves is desired. 
+The corpus data has with the natural language representation for each move is provided in the `data/reformat` directory. These files can also be generated from the BertLine data using the `action_format.py` script also provided in the data directory. This script can be modified if a different linguistic representation of builder moves is desired. 
 
 # Parser 
 
