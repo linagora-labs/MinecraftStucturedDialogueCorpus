@@ -1,10 +1,15 @@
 
 # Minecraft Structured Dialogue Corpus 
 
-This repo contains the annotated corpus files and the code for the BertLine discourse parser. 
-The data and the model are described in the 2024 LREC paper (forthcoming)
+The Minecraft Structured Dialogue Corpus (MSDC) is a discourse-annotated version of the Minecraft Dialogue Corpus (MDC), created by Julia Hockenmaier's lab in 2019. 
 
-Note:  Some minor corrections have been made to the data since LREC publication. The updated stats are summarized below. 
+**Original MDC:** https://juliahmr.cs.illinois.edu/Minecraft/ACL2019.html
+
+The MSDC features complete, situated discourse structures in the style of Situated Discourse Representation Theory (Asher and Lascarides, 2003). 
+
+This repo contains the annotated corpus files and the code used for the BertLine discourse parser. The data and the model are described in the 2024 LREC paper. 
+
+**Paper:** https://aclanthology.org/2024.lrec-main.444/
 
 # Data
 ### Corpus Stats
@@ -31,7 +36,7 @@ Note:  Some minor corrections have been made to the data since LREC publication.
 |Correction             |    230   |     0 |    964 |    968| 2162|
 |Result                 |    1944  |  6015 |    2369|      0|10418|
 |Comment                |    1512  |     0 |    164 |      0| 1676|
-|Question-answer_pair   |    1933  |     0 |      0 |      0| 1933|
+|Question-answer_pair \n la la   |    1933  |     0 |      0 |      0| 1933|
 |Narration              |     4455 |     0 |    0   |      0|4455 |
 |Clarification_question |    960   |     0 |    0   |      0| 960 |
 |Confirmation_question  |    43    |     0 |     956|      0|  999|

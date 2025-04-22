@@ -1,5 +1,5 @@
 
-We annotated all except for 7 dialoguyes in the original Minecraft Discourse Corpus. 
+We annotated all except for 7 dialogues in the original Minecraft Discourse Corpus. 
 We preserve the original splits in these files:
 
 TRAIN_307
