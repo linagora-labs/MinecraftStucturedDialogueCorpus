@@ -11,7 +11,7 @@ to use as our development set. We also combine train + val and use a smaller val
 when training the parser. This cut of the data is found in these files:
 
 TRAIN+VAL_407   (combine train and val from original split) 
-DEV_32		(32 game taken at random from original test split)	
+DEV_32		(32 games taken at random from original test split)	
 TEST_101        (Remaining test is used at test)
 
 

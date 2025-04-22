@@ -18,7 +18,7 @@ This repo contains the annotated corpus files and the code used for the BertLine
 |----------------|-------|--------|------|
 |No. Dialogues | 407| 133| 540|
 |No. EDUs | 17135 | 5402 | 22537 |
-|No. EDUs (squished) |4687|1473|6160| 
+|No. EEUs (squished) |4687|1473|6160| 
 |No. Relation instances |26279|8250|34529|
 |No. Multi-parent DUs |4789|1476|6265|
 
