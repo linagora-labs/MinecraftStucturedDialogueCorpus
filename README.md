@@ -17,11 +17,12 @@ This repo contains the annotated corpus files and the code used for the BertLine
 |                  | Train+Val | Test | Total |
 |----------------|-------|--------|------|
 |No. Dialogues | 407| 133| 540|
-|No. EDUs | 17135 | 5402 | 22537 |
-|No. EEUs (squished) |4687|1473|6160| 
+|No. EDUs | 12913 | 4137 | 17050 |
+|No. EEUs (squished) |8909|2738|11647| 
 |No. Relation instances |26279|8250|34529|
 |No. Multi-parent DUs |4789|1476|6265|
 
+*NB: the EDU/EEU counts are a correction of those included in the LREC paper.
 
 #### Breakdown by relation type and endpoint type*. 
 *'Lin' is EDU and 'NL' is nonlinguistic DU, or EEU.
@@ -36,7 +37,7 @@ This repo contains the annotated corpus files and the code used for the BertLine
 |Correction             |    230   |     0 |    964 |    968| 2162|
 |Result                 |    1944  |  6015 |    2369|      0|10418|
 |Comment                |    1512  |     0 |    164 |      0| 1676|
-|Question-answer_pair \n la la   |    1933  |     0 |      0 |      0| 1933|
+|Question-answer_pair   |    1933  |     0 |      0 |      0| 1933|
 |Narration              |     4455 |     0 |    0   |      0|4455 |
 |Clarification_question |    960   |     0 |    0   |      0| 960 |
 |Confirmation_question  |    43    |     0 |     956|      0|  999|
