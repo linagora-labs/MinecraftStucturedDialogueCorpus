@@ -11,6 +11,9 @@ This repo contains the annotated corpus files and the code used for the BertLine
 
 **Paper:** https://aclanthology.org/2024.lrec-main.444/
 
+The MSDC can also be found on Hugging Face: 
+https://huggingface.co/datasets/linagora/MinecraftStructuredDialogueCorpus
+
 # Data
 ### Corpus Stats
 
@@ -56,6 +59,7 @@ This repo contains the annotated corpus files and the code used for the BertLine
 #### Builder Action Formats 
 For the BertLine parser, each Builder action move is compressed to a single code representing place/pick, color and xyz coordinates. 
 The corpus data has with the natural language representation for each move is provided in the `data/reformat` directory. These files can also be generated from the BertLine data using the `action_format.py` script also provided in the data directory. This script can be modified if a different linguistic representation of builder moves is desired. 
+*Alternatively, the formatted data can be found in the Hugging Face repository https://huggingface.co/datasets/linagora/MinecraftStructuredDialogueCorpus. 
 
 # Parser 
 
