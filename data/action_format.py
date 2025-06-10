@@ -24,7 +24,7 @@ def decode(tok_str):
     takes a list bert tokens and changes them back to coordinates.
     """
     zdict = {'a':'-5', 'e' : '-4', 'i':'-3', 'o':'-2', 'u':'-1', 'p':'0', 
-             'q':'1', 'r':'2', 'x': '3', 'y':'4', 'z':'5'}
+             'q':'1', 'r':'2', 'x': '3', 'y':'4', 'z':'5', 't':'6', 'w':'-6', 's':'-7'}
     xdict = {'b': '-5', 'c' :'-4', 'd' : '-3', 'f' : '-2', 'g' : '-1', 'h':'0', 
              'j':'1', 'k':'2', 'l':'3', 'm':'4', 'n':'5'}
     colors = {'r' :'red', 'b':'blue', 'g':'green', 'o':'orange', 'y':'yellow', 'p':'purple'}
