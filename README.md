@@ -70,4 +70,15 @@ We use the BertLine parser as originally described in [Bennis et al, 2023](https
  2.  bert_linear.ipynb
  3.  bert_multitaks.ipynb
  4.  bert_multitask_test.ipynb
+
+```
+Thompson, Kate, Hunter, Julie, & Asher, Nicholas (2024). Discourse structure for the Minecraft corpus. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation* (LREC-COLING 2024) (pp. 4957-4967).
+@inproceedings{thompson2024discourse,
+  title={Discourse structure for the Minecraft corpus},
+  author={Thompson, Kate and Hunter, Julie and Asher, Nicholas},
+  booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
+  pages={4957--4967},
+  year={2024}
+}
+```
  
